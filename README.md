@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Milindk1
+- 👋 Hi, I’m Milind.
 - 👀 I’m interested in Web development, Data science and Machine learning.
 - 🌱 I’m currently learning Python and Javascript.
 - 💞️ I’m looking to collaborate on Projects.
